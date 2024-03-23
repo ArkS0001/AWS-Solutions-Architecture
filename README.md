@@ -7,6 +7,21 @@ AWS APAC Solutions Architecture virtual experience program on Forage - March
  * Described my proposed architecture in plain language ensuring my client
    understood how it works and how costs will be calculated for it.
    
+“Why are you interested in this role?”
+
+I recently participated in the AWS virtual job simulation on the Forage
+platform, and it was incredibly useful to understand what it might be like to be
+a Solutions Architect on the AWS team. I really enjoyed creating an architecture
+diagram and drafting a plain language email to explain how it works and how
+costs would be calculated to my client. 
+The realistic context helped me to understand how critical the relationship can
+be between the CTO of an early stage company and their Solutions Architect at
+AWS. I also learned how being thoughtful and considered as a Solutions Architect
+can significantly reduce the stress faced by clients. 
+Through this program I realized that I really enjoy working on designing hosting
+architecture and would love to apply what I've learned as a Solutions Architect
+at AWS.
+   
 ![Architecture Diagram](https://github.com/ArkS0001/AWS-Solutions-Architecture/assets/113760964/a8c24b3d-88d7-4d8e-a227-587193de0631)
 
 # You receive a client email request
