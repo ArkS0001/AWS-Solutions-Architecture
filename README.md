@@ -1,3 +1,12 @@
+AWS APAC Solutions Architecture virtual experience program on Forage - March
+2024
+
+ * Designed and simple and scalable hosting architecture based on Elastic
+   Beanstalk for a client experiencing significant growth and slow response
+   times.
+ * Described my proposed architecture in plain language ensuring my client
+   understood how it works and how costs will be calculated for it.
+   
 ![Architecture Diagram](https://github.com/ArkS0001/AWS-Solutions-Architecture/assets/113760964/a8c24b3d-88d7-4d8e-a227-587193de0631)
 
 # You receive a client email request
