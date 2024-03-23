@@ -1,3 +1,5 @@
+![Architecture Diagram](https://github.com/ArkS0001/AWS-Solutions-Architecture/assets/113760964/a8c24b3d-88d7-4d8e-a227-587193de0631)
+
 # You receive a client email request
 
 In this task, imagine you are a solutions architect at AWS. A customer has contacted you because they are having some problems with the way their web application is currently hosted.
